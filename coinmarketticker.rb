@@ -17,9 +17,10 @@ require 'json'
 
 # Edit the coins you care about here:
 COINS = %w(
-  XMR
-  ETN
-  SUB
+  BTC
+  ETH
+  XLM
+  XRP
 ).freeze
 
 DEFAULT_PERIOD = '24h'
